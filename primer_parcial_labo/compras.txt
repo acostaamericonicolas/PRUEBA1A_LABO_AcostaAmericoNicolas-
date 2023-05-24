@@ -1,0 +1,7 @@
+                           FACTURA DE COMPRA
+
+CANTIDAD                   PRODUCTO/MARCA                     SUBTOTAL                    
+
+1                   Cepillo para perros, pedigree          17.99
+
+TOTAL A PAGAR                                                $17.99
